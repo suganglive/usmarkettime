@@ -1,6 +1,6 @@
 a = 1
 date = 13
-int(input("what date to day? you can answer YYMMDD format ex) 220102"))
+int(input("what date today? you can answer YYMMDD format ex) 220102"))
 if a:
     print("Yes, US stock market open to day.")
     if date > 3 or date < 11:
